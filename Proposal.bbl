@@ -1,0 +1,179 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Ahmed~N}{2019}]{Ahmed}
+Isik Z Alpkocak~A Ahmed~N, Yigit~A.
+\newblock Identification of leukemia subtypes from microscopic images using
+  convolutional neural network.
+\newblock {\em Diagnostics (Basel).}, 2019.
+
+\bibitem[\protect\citeauthoryear{Alex \bgroup \em et al.\egroup
+  }{2012}]{AlexNet}
+Krizhevsky Alex, Sutskever Ilya, and Hinton Geoffrey.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock {\em Neural Information Processing Systems}, 25, 01 2012.
+
+\bibitem[\protect\citeauthoryear{Alves}{2006}]{Alves}
+Eduardo Alves.
+\newblock Earthquake forecasting using neural networks: Results and future
+  work.
+\newblock {\em Nonlinear Dynamics}, 44:341--349, 06 2006.
+
+\bibitem[\protect\citeauthoryear{Alzubaidi \bgroup \em et al.\egroup
+  }{2021}]{Alzubaidi}
+Laith Alzubaidi, Jinglan Zhang, Amjad~J. Humaidi, Ayad Al-Dujaili, Ye~Duan,
+  Omran Al-Shamma, J.~Santamaría, Mohammed~A. Fadhel, Muthana Al-Amidie, and
+  Laith Farhan.
+\newblock Review of deep learning: concepts, cnn architectures, challenges,
+  applications, future directions.
+\newblock {\em Journal of Big Data}, 8(53), 2021.
+
+\bibitem[\protect\citeauthoryear{Goodfellow \bgroup \em et al.\egroup
+  }{2016}]{Ian}
+MIan Goodfellow, Yoshua Bengio, and Aaron Courville.
+\newblock {\em Deep Learning}.
+\newblock The MIT Press, Rogers Street, Cambridge, 2016.
+
+\bibitem[\protect\citeauthoryear{Grau-Moya}{2011}]{Grau}
+Jordi Grau-Moya.
+\newblock Integration of the information in complex neural networks with noise.
+\newblock 09 2011.
+
+\bibitem[\protect\citeauthoryear{Greaves}{2016}]{Greaves}
+Mel Greaves.
+\newblock Leukaemia 'firsts' in cancer research and treatment.
+\newblock {\em Nature Reviews Cancer}, 16:163--172, 02 2016.
+
+\bibitem[\protect\citeauthoryear{He \bgroup \em et al.\egroup
+  }{2015}]{microsoft}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock {\em CoRR}, abs/1512.03385, 2015.
+
+\bibitem[\protect\citeauthoryear{Howard \bgroup \em et al.\egroup
+  }{2017}]{Andrew}
+Andrew~G. Howard, Menglong Zhu, Bo~Chen, Dmitry Kalenichenko, Weijun Wang,
+  Tobias Weyand, Marco Andreetto, and Hartwig Adam.
+\newblock Mobilenets: Efficient convolutional neural networks for mobile vision
+  applications.
+\newblock {\em CoRR}, abs/1704.04861, 2017.
+
+\bibitem[\protect\citeauthoryear{Janeway CA~Jr}{2001}]{Janeway}
+Walport M et~al Janeway CA~Jr, Travers~P.
+\newblock {\em Immunobiology: The Immune System in Health and Disease}, chapter
+  Chapter 7, The Development and Survival of Lymphocytes.
+\newblock Garland Science, 2001.
+
+\bibitem[\protect\citeauthoryear{Kaiser \bgroup \em et al.\egroup
+  }{2017}]{Kaiser}
+Lukasz Kaiser, Aidan~N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion
+  Jones, and Jakob Uszkoreit.
+\newblock One model to learn them all.
+\newblock {\em CoRR}, abs/1706.05137, 2017.
+
+\bibitem[\protect\citeauthoryear{Kassani \bgroup \em et al.\egroup
+  }{2019}]{Sara}
+Sara~Hosseinzadeh Kassani, Peyman~Hosseinzadeh kassani, Michal~J. Wesolowski,
+  Kevin~A. Schneider, and Ralph Deters.
+\newblock A hybrid deep learning architecture for leukemic b-lymphoblast
+  classification, 2019.
+
+\bibitem[\protect\citeauthoryear{Kellenher}{2019}]{John}
+John~D Kellenher.
+\newblock {\em Deep Learning}.
+\newblock Toppan Best-set Premedia Limited, Massachusetts Institute of
+  Technology, 2019.
+
+\bibitem[\protect\citeauthoryear{Krizhevsky \bgroup \em et al.\egroup
+  }{2012}]{NIPS2012_c399862d}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In F.~Pereira, C.~J.~C. Burges, L.~Bottou, and K.~Q. Weinberger,
+  editors, {\em Advances in Neural Information Processing Systems}, volume~25.
+  Curran Associates, Inc., 2012.
+
+\bibitem[\protect\citeauthoryear{Laosai and Chamnongthai}{2018}]{Jakkrich}
+Jakkrich Laosai and Kosin Chamnongthai.
+\newblock Classification of acute leukemia using medical-knowledge-based
+  morphology and cd marker.
+\newblock {\em Elsevier}, 44(44):127--137, 2018.
+
+\bibitem[\protect\citeauthoryear{Lecun}{1989}]{Yann}
+Yann Lecun.
+\newblock {\em Generalization and network design strategies}.
+\newblock Elsevier, 1989.
+
+\bibitem[\protect\citeauthoryear{Mansour and Nageh}{2019}]{phdthesis}
+Mariam Mansour and Heba Nageh.
+\newblock {\em induced pluripotent stem cell (post graduate project)}.
+\newblock PhD thesis, 06 2019.
+
+\bibitem[\protect\citeauthoryear{Ogawa}{1905}]{blood}
+M~Ogawa.
+\newblock Differentiation and proliferation of hematopoietic stem cells.
+\newblock {\em Blood}, 81(11):891--921, 1905.
+
+\bibitem[\protect\citeauthoryear{Oktay and Gurses}{2019}]{Ayse}
+Ayse~Betul Oktay and Anıl Gurses.
+\newblock Automatic detection, localization and segmentation of nano-particles
+  with deep learning in microscopy images.
+\newblock {\em Micron}, 120:113 -- 119, 2019.
+
+\bibitem[\protect\citeauthoryear{Patel and Mishra}{2015}]{Nimesh}
+Nimesh Patel and Ashutosh Mishra.
+\newblock Automated leukaemia detection using microscopic images.
+\newblock {\em Procedia Computer Science}, 58:635 -- 642, 2015.
+\newblock Second International Symposium on Computer Vision and the Internet
+  (VisionNet’15).
+
+\bibitem[\protect\citeauthoryear{Pelletier \bgroup \em et al.\egroup
+  }{2019}]{Pelletier}
+Charlotte Pelletier, Geoffrey Webb, and François Petitjean.
+\newblock Temporal convolutional neural network for the classification of
+  satellite image time series.
+\newblock {\em Remote Sensing}, 11:523, 03 2019.
+
+\bibitem[\protect\citeauthoryear{Simonyan and
+  Zisserman}{2015}]{simonyan2015deep}
+Karen Simonyan and Andrew Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition,
+  2015.
+
+\bibitem[\protect\citeauthoryear{Stephen}{2015}]{Stephen}
+Marshland Stephen.
+\newblock {\em Machine Learning : An algorithmic perspective}.
+\newblock TCRC Press, Boca Raton, Florida, USA, 2015.
+
+\bibitem[\protect\citeauthoryear{Sutton and Barto}{2018}]{Sutton1998}
+Richard~S. Sutton and Andrew~G. Barto.
+\newblock {\em Reinforcement Learning: An Introduction}.
+\newblock The MIT Press, second edition, 2018.
+
+\bibitem[\protect\citeauthoryear{Szegedy \bgroup \em et al.\egroup
+  }{2014}]{googleNet}
+Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott~E. Reed,
+  Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich.
+\newblock Going deeper with convolutions.
+\newblock {\em CoRR}, abs/1409.4842, 2014.
+
+\bibitem[\protect\citeauthoryear{Tajbakhsh \bgroup \em et al.\egroup
+  }{2016}]{IEEETransactions}
+Nima Tajbakhsh, Jae~Y. Shin, Suryakanth~R. Gurudu, R.~Todd Hurst,
+  Christopher~B. Kendall, Michael~B. Gotway, and Jianming Liang.
+\newblock Convolutional neural networks for medical image analysis: Full
+  training or fine tuning?
+\newblock {\em IEEE Transactions on Medical Imaging}, 35(5):1299--1312, 2016.
+
+\bibitem[\protect\citeauthoryear{Vogado \bgroup \em et al.\egroup
+  }{2018}]{Luis}
+Luis~H.S. Vogado, Rodrigo~M.S. Veras, Flavio.~H.D. Araujo, Romuere~R.V. Silva,
+  and Kelson~R.T. Aires.
+\newblock Leukemia diagnosis in blood slides using transfer learning in cnns
+  and svm for classification.
+\newblock {\em arXiv}, 72(72):415--422, 2018.
+
+\bibitem[\protect\citeauthoryear{Zeiler and Fergus}{2013}]{ZFNET}
+Matthew~D. Zeiler and Rob Fergus.
+\newblock Visualizing and understanding convolutional networks.
+\newblock {\em CoRR}, abs/1311.2901, 2013.
+
+\end{thebibliography}

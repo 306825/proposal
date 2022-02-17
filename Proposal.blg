@@ -1,0 +1,77 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Proposal.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: named.bst
+Illegal, another \bibstyle command---line 121 of file Proposal.aux
+ : \bibstyle
+ :          {unsrt}
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: references.bib
+Repeated entry---line 192 of file references.bib
+ : @inbook{Yann
+ :             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 256 of file references.bib
+ : @book{John
+ :           ,
+I'm skipping whatever remains of this entry
+Too many commas in name 1 of "Janeway CA Jr, Travers P, Walport M, et al" for entry Janeway
+while executing---line 1211 of file named.bst
+Too many commas in name 1 of "Janeway CA Jr, Travers P, Walport M, et al" for entry Janeway
+while executing---line 1211 of file named.bst
+Too many commas in name 1 of "Ahmed N, Yigit A, Isik Z, Alpkocak A" for entry Ahmed
+while executing---line 1211 of file named.bst
+Too many commas in name 1 of "Ahmed N, Yigit A, Isik Z, Alpkocak A" for entry Ahmed
+while executing---line 1211 of file named.bst
+Too many commas in name 1 of "Ahmed N, Yigit A, Isik Z, Alpkocak A" for entry Ahmed
+while executing---line 1280 of file named.bst
+Warning--empty journal in Grau
+Too many commas in name 1 of "Janeway CA Jr, Travers P, Walport M, et al" for entry Janeway
+while executing---line 1280 of file named.bst
+Warning--can't use both author and editor fields in Yann
+Warning--empty chapter and pages in Yann
+Warning--empty school in phdthesis
+You've used 28 entries,
+            2439 wiz_defined-function locations,
+            729 strings with 9132 characters,
+and the built_in function-call counts, 10352 in all, are:
+= -- 1009
+> -- 539
+< -- 2
++ -- 185
+- -- 184
+* -- 873
+:= -- 1780
+add.period$ -- 84
+call.type$ -- 28
+change.case$ -- 196
+chr.to.int$ -- 28
+cite$ -- 32
+duplicate$ -- 385
+empty$ -- 705
+format.name$ -- 219
+if$ -- 2044
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 31
+newline$ -- 142
+num.names$ -- 86
+pop$ -- 179
+preamble$ -- 1
+purify$ -- 230
+quote$ -- 0
+skip$ -- 312
+stack$ -- 0
+substring$ -- 352
+swap$ -- 59
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 200
+warning$ -- 4
+while$ -- 70
+width$ -- 32
+write$ -- 358
+(There were 9 error messages)

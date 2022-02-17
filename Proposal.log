@@ -1,0 +1,357 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.11.18)  24 NOV 2021 22:33
+entering extended mode
+**./Proposal.tex
+(Proposal.tex
+LaTeX2e <2021-11-15>
+L3 programming layer <2021-11-12>
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bas
+e/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bas
+e/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gra
+phics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gra
+phics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gra
+phics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gra
+phics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gra
+phics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gra
+phics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/nat
+bib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count191
+)
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
+math/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
+math/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
+math/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen141
+))
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
+math/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
+math/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count192
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count193
+\leftroot@=\count194
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count195
+\DOTSCASE@=\count196
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count197
+\c@MaxMatrixCols=\count198
+\dotsspace@=\muskip16
+\c@parentequation=\count199
+\dspbrk@lvl=\count266
+\tag@help=\toks18
+\row@=\count267
+\column@=\count268
+\maxfields@=\count269
+\andhelp@=\toks19
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks20
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geo
+metry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/generic/i
+ftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/generic/i
+ftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count270
+\Gm@cntv=\count271
+\c@Gm@tempcnt=\count272
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks22
+
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geo
+metry/geometry.cfg))
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3b
+ackend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count273
+\l__pdf_internal_box=\box52
+) (Proposal.aux)
+\openout1 = `Proposal.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/context/b
+ase/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count274
+\scratchdimen=\dimen158
+\scratchbox=\box53
+\nofMPsegments=\count275
+\nofMParguments=\count276
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count277
+\MPscratchDim=\dimen159
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
+\everyMPtoPDFconversion=\toks24
+)
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/eps
+topdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00m
+iktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 380.69788pt, 108.405pt)
+* v-part:(T,H,B)=(108.405pt, 628.23685pt, 108.405pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=380.69788pt
+* \textheight=628.23685pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-0.86499pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(titlepage.tex
+<WitsUniversitylogo.jpg, id=1, 803.0pt x 627.34375pt>
+File: WitsUniversitylogo.jpg Graphic file (type jpg)
+<use WitsUniversitylogo.jpg>
+Package pdftex.def Info: WitsUniversitylogo.jpg  used on input line 27.
+(pdftex.def)             Requested size: 152.27682pt x 118.9668pt.
+ [1
+
+{/Users/mduduzi/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pd
+ftex.map} <./WitsUniversitylogo.jpg>]) [1] (Proposal.toc)
+\tf@toc=\write3
+\openout3 = `Proposal.toc'.
+
+
+[2] [3] [4]
+<WhiteBloodCell.png, id=24, 691.58376pt x 645.41125pt>
+File: WhiteBloodCell.png Graphic file (type png)
+<use WhiteBloodCell.png>
+Package pdftex.def Info: WhiteBloodCell.png  used on input line 53.
+(pdftex.def)             Requested size: 276.6286pt x 258.15993pt.
+ [5 <./WhiteBloodCell.png>]
+<ImDB2.jpeg, id=28, 635.37375pt x 459.7175pt>
+File: ImDB2.jpeg Graphic file (type jpg)
+<use ImDB2.jpeg>
+Package pdftex.def Info: ImDB2.jpeg  used on input line 66.
+(pdftex.def)             Requested size: 317.6861pt x 229.85818pt.
+ [6 <./ImDB2.jpeg>] [7]
+<neuron-structure.png, id=36, 803.0pt x 362.35374pt>
+File: neuron-structure.png Graphic file (type png)
+<use neuron-structure.png>
+Package pdftex.def Info: neuron-structure.png  used on input line 118.
+(pdftex.def)             Requested size: 401.49902pt x 181.17642pt.
+
+Overfull \hbox (20.80115pt too wide) in paragraph at lines 118--119
+[][] 
+ []
+
+[8 <./neuron-structure.png>]
+<Perceptron_1.png, id=45, 853.1875pt x 474.77374pt>
+File: Perceptron_1.png Graphic file (type png)
+<use Perceptron_1.png>
+Package pdftex.def Info: Perceptron_1.png  used on input line 141.
+(pdftex.def)             Requested size: 426.59271pt x 237.38629pt.
+
+Overfull \hbox (45.89484pt too wide) in paragraph at lines 141--142
+[][] 
+ []
+
+<ANN.png, id=47, 732.7375pt x 452.69125pt>
+File: ANN.png Graphic file (type png)
+<use ANN.png>
+Package pdftex.def Info: ANN.png  used on input line 151.
+(pdftex.def)             Requested size: 366.36786pt x 226.34506pt.
+[9 <./Perceptron_1.png>] [10 <./ANN.png>] [11]
+<ConvolutionOperation.jpg, id=60, 670.9065pt x 364.9635pt>
+File: ConvolutionOperation.jpg Graphic file (type jpg)
+<use ConvolutionOperation.jpg>
+Package pdftex.def Info: ConvolutionOperation.jpg  used on input line 187.
+(pdftex.def)             Requested size: 335.45242pt x 182.4813pt.
+ [12 <./ConvolutionOperation.jpg>]
+<AlexNetArchitecture.png, id=65, 1003.75pt x 346.29375pt>
+File: AlexNetArchitecture.png Graphic file (type png)
+<use AlexNetArchitecture.png>
+Package pdftex.def Info: AlexNetArchitecture.png  used on input line 197.
+(pdftex.def)             Requested size: 301.12732pt x 103.88892pt.
+ [13 <./AlexNetArchitecture.png (PNG copy)>] [14] [15] [16]
+<vgg16.png, id=78, 903.375pt x 508.90125pt>
+File: vgg16.png Graphic file (type png)
+<use vgg16.png>
+Package pdftex.def Info: vgg16.png  used on input line 239.
+(pdftex.def)             Requested size: 361.3436pt x 203.55688pt.
+ [17 <./vgg16.png>]
+<Timeline.jpeg, id=83, 2290.5575pt x 392.46625pt>
+File: Timeline.jpeg Graphic file (type jpg)
+<use Timeline.jpeg>
+Package pdftex.def Info: Timeline.jpeg  used on input line 257.
+(pdftex.def)             Requested size: 389.38963pt x 66.71837pt.
+
+Overfull \hbox (8.69176pt too wide) in paragraph at lines 257--258
+[][] 
+ []
+
+[18 <./Timeline.jpeg>] [19] [20] (Proposal.bbl
+Underfull \hbox (badness 4819) in paragraph at lines 75--79
+[]\OT1/cmr/m/n/10.95 Sara Hos-sein-zadeh Kas-sani, Pey-man Hos-sein-zadeh kas-s
+ani, Michal J.
+ []
+
+[21]) [22] (Proposal.aux) ) 
+Here is how much of TeX's memory you used:
+ 3094 strings out of 478700
+ 48906 string characters out of 2837513
+ 360659 words of memory out of 3000000
+ 21162 multiletter control sequences out of 15000+600000
+ 410568 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,9n,62p,3191b,264s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </Users/mduduzi/Library/Application Support/MiKTeX/
+texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk></Users/mduduzi/Libr
+ary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cm
+bx10.pfb></Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/font
+s/type1/public/amsfonts/cm/cmbx12.pfb></Users/mduduzi/Library/Application Suppo
+rt/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Users/mdud
+uzi/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfon
+ts/cm/cmmi10.pfb></Users/mduduzi/Library/Application Support/MiKTeX/texmfs/inst
+all/fonts/type1/public/amsfonts/cm/cmmi8.pfb></Users/mduduzi/Library/Applicatio
+n Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></User
+s/mduduzi/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/
+amsfonts/cm/cmr12.pfb></Users/mduduzi/Library/Application Support/MiKTeX/texmfs
+/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Users/mduduzi/Library/Appli
+cation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></
+Users/mduduzi/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb></Users/mduduzi/Library/Application Support/MiKTeX/t
+exmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Proposal.pdf (23 pages, 970308 bytes).
+PDF statistics:
+ 151 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
